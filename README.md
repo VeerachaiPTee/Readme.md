@@ -93,18 +93,6 @@ I'm passionate about learning new technologies and building software solutions t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VeerachaiPTee&show_icons=true&theme=tokyonight" height="160" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeerachaiPTee&layout=compact&theme=tokyonight" height="160" />
-
-</div>
-
----
-
 ## 🔗 Socials
 
 <p align="left">
